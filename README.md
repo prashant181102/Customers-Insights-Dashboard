@@ -64,4 +64,5 @@ Storytelling with Data
 DAX Calculations
 SQL Query Writing
 
-ScreenShots:
+ScreenShots: https://github.com/prashant181102/Customers-Insights-Dashboard/blob/main/Customers.png
+
