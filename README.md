@@ -13,7 +13,7 @@ Customer Segmentation
 Revenue & Spend Tracking
 
 Dashboard Pages
-1️⃣ Regional & Operational Insights
+ Regional & Operational Insights
 Key Analysis:
 RFM score by region
 Frequency of orders by location category
