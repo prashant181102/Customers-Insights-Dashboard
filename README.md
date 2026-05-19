@@ -67,4 +67,5 @@ SQL Query Writing
 ScreenShots: 
 https://github.com/prashant181102/Customers-Insights-Dashboard/blob/main/Customers.png
 https://github.com/prashant181102/Customers-Insights-Dashboard/blob/main/Areas.png
+https://github.com/prashant181102/Customers-Insights-Dashboard/blob/main/Channel_type.png
 
